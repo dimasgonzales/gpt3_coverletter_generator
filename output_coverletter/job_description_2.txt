@@ -1,0 +1,17 @@
+
+Dear Hiring Manager,
+
+I am writing in response to your job posting for a Senior Data Scientist. With my U.S. citizenship and more than seven years of experience in data engineering, machine learning, and software development, I am confident that I am the ideal candidate for this role.
+
+During my career, I have worked with a variety of programming languages, such as Python, SQL, and JavaScript, as well as development capabilities like MLOps, Data Engineering, Cloud DevOps, and Microservice Development. I have also built software and supporting tests to implement features, researched and documented business processes to distill the technical requirements, and mentored junior associates.
+
+At my current position as Master Engineer at Texas Capital Bank, I have built a cloud-first data lake and data warehouse platform for the entire enterprise, migrated three business processes off legacy warehouse solutions to a new data warehouse platform, and led the development of two net-new business capabilities on the data platform. I have also codified architecture design patterns and interviewed and approved engineering candidates.
+
+My qualifications also include a BS in Computer Engineering from Texas A&M University and extensive experience with Microsoft Azure, including certification in machine learning. I have also developed public AI-related projects available on GitHub.
+
+I am excited about the prospect of contributing to the Data Science group at Deloitte and helping to realize the Deloitte Audit and Assurance vision of an AI-enabled audit. I am confident that my skills and experience make me the perfect candidate for this position and I look forward to discussing my application further.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Dimas Gonzales

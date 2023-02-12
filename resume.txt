@@ -1,0 +1,27 @@
+Dimas Gonzales
+dimas@gmail.com
+U.S. Citizen
+
+Feb 2022 - Present | Master Engineer | Texas Capital Bank – Joined as a Senior Engineer and grew to Tech Lead and Team Leader (Dotted Line Report of 8 Engineers, Analysts, Architects and QA resources). Built a cloud-first data lake and data warehouse platform for the entire enterprise (AWS, Snowflake). 
+Migrated 3 business processes off legacy warehouse solutions (On-Premises, Azure) to a new data warehouse platform. Led the development of 2 net-new business capabilities on data platform.
+Codified architecture design patterns; 5 enterprise data lake/warehouse related patterns. 
+Interviewed and approved engineering candidates, 12 candidates interviewed, 5 offers extended.
+Recognized with “BullDog” CTO award for delivery of enterprise data warehouse platform.
+Aug 2021 – Feb 2022 | Senior Data Engineer | Tiger Analytics – Partner with client teams to develop data warehouse service, integrate 3rd party systems and identify process (technical and business) improvements. Solutions were implemented in Python/Javascript/SQL in AWS, Azure, Treasure Data.  
+Migrated 37 manually managed batch jobs to a CICD platform (Azure Devops + Github)
+Developed integration of DataOps and Data Science teams.
+Jan 2021 – July 2021 | Principal Associate Senior Software Engineer | Capital One – Constructed engineering roadmap for team. Advised data science project planning. Implemented required features (ETL pipelines in Python + PySpark + AWS EMR and Microservices in Angular + Django + Docker + AWS ECS). Led/Planned the development of new microservices. Managed team planning board and processes (Jira). Mentored Junior associates. Interviewed engineering candidates. 
+Led engineering team to close 38 Critical/Major cyber vulnerabilities across 2 ASVs in two months
+Recognized with the “Run the Engine” departmental award for work on tech. debt reduction.
+Jan. 2019 – Jan. 2021 | Senior Associate Software Engineer | Capital One – Productionalized Valuations Model. Built a microservice to validate the performance of candidate auto loan valuations models on over 10M loans. Mentored Junior associate. Interviewed engineering candidates.
+Implemented service that yielded an 11% reduction in Valuation models residuals
+Completed tool that reduced model validation process from 1 month to 4 hours 
+Recognized with 2 “Mark of Distinction” LOB awards for performance excellence.
+Sept. 2017 – Jan. 2019 | Associate Software Engineer | Capital One – Created software and supporting tests to implement features. Researched and documented business processes to distill the technical requirements. Interviewed engineering candidates.
+Service delivered $1M in savings the first quarter and $9M in each following year.
+Recognized 4 times at the team and departmental level for acts of “ownership”
+Vetted over a dozen engineering candidates in 2.5 months
+April 2014 – Jan. 2017 | Software Developer 1 | CAPSHER Technology – Created software and supporting tests to implement features.
+Programming Languages – Python, SQL
+Development Capabilities – MLOps (SparkML), Data Engineering (ETL Development, Data Cleaning, Data Pipeline, Spark Dataframe, Snowflake SQL, Postgresql, Pandas, Airflow), Cloud DevOps (AWS Cloudformation, ECR, ECS, EMR, Github Actions), Microservice development (Containers/Docker, APIs, Streams/Topics/Queues/Kafka/SQS/SNS)
+BS Computer Engineering, Texas A&M University – College Station, Graduated May 2017

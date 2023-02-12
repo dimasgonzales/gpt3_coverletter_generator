@@ -1,0 +1,15 @@
+
+Dear Hiring Manager,
+
+I am writing to apply for the position of Applied Research Scientist at Amazon Science. With my education in Computer Engineering and 8 years of professional experience in software engineering, data engineering, and cloud DevOps, I believe I have the necessary qualifications and skills to excel in this role.
+
+At Texas Capital Bank, I was responsible for the development of a cloud-first data lake and data warehouse platform for the entire enterprise. I also codified architecture design patterns and interviewed and approved engineering candidates. My work was recognized with the “BullDog” CTO award for delivery of the enterprise data warehouse platform. At Tiger Analytics, I partnered with client teams to develop data warehouse services and integrate 3rd party systems. I migrated 37 manually managed batch jobs to a CICD platform and developed integration of DataOps and Data Science teams.
+
+My experience at Capital One includes constructing engineering roadmaps for teams, advising data science project planning, and leading the development of new microservices. I have also led teams to close 38 Critical/Major cyber vulnerabilities across 2 ASVs and received multiple awards for performance excellence.
+
+I am proficient in programming languages such as Python, SQL and development capabilities such as MLOps (SparkML), Data Engineering (ETL Development, Data Cleaning, Data Pipeline, Spark Dataframe, Snowflake SQL, Postgresql, Pandas, Airflow), Cloud DevOps (AWS Cloudformation, ECR, ECS, EMR, Github Actions), and Microservice development (Containers/Docker, APIs, Streams/Topics/Queues/Kafka/SQS/SNS).
+
+I am confident my experience and skills make me an ideal candidate for this role. I am excited to learn more about the position and to discuss how I can contribute to the success of Amazon Science. Thank you for your time and consideration.
+
+Sincerely,
+Dimas Gonzales

@@ -1,0 +1,69 @@
+Description
+
+ 
+
+ Amazon Science gives you insight into the company’s approach to customer-obsessed scientific innovation. Amazon fundamentally believes that scientific innovation is essential to being the most customer-centric company in the world. It’s the company’s ability to have an impact at scale that allows us to attract some of the brightest minds in artificial intelligence and related fields. Our scientists continue to publish, teach, and engage with the academic community, in addition to utilizing our working backwards method to enrich the way we live and work.
+
+ 
+
+ Please visit https://www.amazon.science for more information.
+
+ 
+
+ Amazon has built a reputation for excellence with recent examples of being named the #1 most trusted company for customers. To deliver on this reputation for trust, the Seller Partner Abuse team is tasked with identifying and preventing abuse for our customers and brand owners worldwide.
+
+ 
+
+ Selling Partner Abuse is seeking an innovative, results-oriented, customer-centric Applied Research Scientist to drive expansion of innovative ML products globally in the Risk space. We are looking for an exceptional scientist to develop statistical models and algorithms to drive strategic business decisions and improve operations. You will work with business leaders, scientists, and product managers to translate business and functional requirements into concrete deliverables, including the design, development, testing, and deployment of highly scalable distributed services. This is a unique, high visibility opportunity for someone who wants to have business impact, dive deep into large-scale problems, enable measurable actions. As an Applied Scientist, you bring structure to ambiguous business problems and use science, logic, and practical experience to decompose them into straightforward, scalable solutions. You set the standard for scientific excellence and make decisions that affect the way we build and integrate algorithms. Your solutions are exemplary in terms of algorithm design, clarity, model structure, efficiency, and extensibility. You tackle intrinsically hard problems; you're interested in learning; and you acquire skills and expertise as needed. Additionally, the candidate should be an effective communicator capable of independently driving issues to resolution and communicating insights to non-technical audiences. This is a high impact role with goals that directly impacts the bottom line of the business.
+
+ 
+
+ Responsibilities
+
+ 
+
+Leverage knowledge of statistics and optimization to frame decision-making problems
+Build statistical models required to measure the impact of each system and platform
+Predict future customer behavior and business conditions through machine learning and predictive modeling
+Use analytical and predictive techniques to build models for optimizing and target specific products
+Translate prototype models to production quality, large scale software systems
+Present proposals and results in a clear manner backed by data and coupled with actionable conclusions
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+ 
+
+ 
+
+ Basic Qualifications
+
+ 
+
+PhD or equivalent Master's Degree plus 4+ years of experience in CS, CE, ML or related field
+Experience programming in Java, C++, Python or related language
+Master’s Degree in any quantitative discipline such as Statistics, Mathematics, Quantitative Finance, computer science, or Operational Researh
+4+ years of experience working in Analytics / Business Intelligence environment
+4+ years professional experience in modeling and statistical analysis of large data sets
+Proven experience in working with databases and SQL in a business environment
+Demonstrated use of analytical packages and query languages such as SAS, SPSS and SQL
+Proven experience in design and execution of analytical projects
+Demonstrated experience working in large scale data bases and data warehouses
+Track record of developing and implementing models using programming and scripting (Java, Python, R, Ruby, C/C++, or Matlab)
+Preferred Qualifications
+
+ 
+
+2+ years experience in research or on the job experience in Natural Language Processing (NLP)
+Experience investigating the feasibility of applying scientific principals and concepts to business problems and products
+Strong Computer Science experience in algorithm design, data structures, problem solving, and complexity analysis Proficiency in, at least, one programming language such as python, C, C++, Java, or Perl Experience with AWS technologies
+Strong communication in both verbal and writing and data presentation skills
+Extensive experience applying ML models in an applied environment.
+Strong fundamentals in problem solving, algorithm design and complexity analysis.
+Strong personal interest in learning, researching, and creating new technologies with high commercial impact.
+Experience with defining organizational research and development practices in an industry setting
+Proven track in leading, mentoring and growing teams of scientists (teams of five or more scientist)
+ 
+Company - Amazon.com Services LLC
+
+ 
+
+ Job ID: A1531038  
