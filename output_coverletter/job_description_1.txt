@@ -1,15 +1,18 @@
 
-Dear Hiring Manager,
+Dear Ms. Kincaid,
 
-I am writing to apply for the position of Applied Research Scientist at Amazon Science. With my education in Computer Engineering and 8 years of professional experience in software engineering, data engineering, and cloud DevOps, I believe I have the necessary qualifications and skills to excel in this role.
+I am writing to apply for the Applied Research Scientist position with Amazon Science. With a Bachelor’s Degree in Computer Engineering and over seven years of experience in software engineering, I believe I have the necessary qualifications to exceed your expectations for this role.
 
-At Texas Capital Bank, I was responsible for the development of a cloud-first data lake and data warehouse platform for the entire enterprise. I also codified architecture design patterns and interviewed and approved engineering candidates. My work was recognized with the “BullDog” CTO award for delivery of the enterprise data warehouse platform. At Tiger Analytics, I partnered with client teams to develop data warehouse services and integrate 3rd party systems. I migrated 37 manually managed batch jobs to a CICD platform and developed integration of DataOps and Data Science teams.
+In my most recent role as a Master Engineer at Texas Capital Bank, I was responsible for building a cloud-first data lake and data warehouse platform for the entire enterprise. I also migrated three business processes off legacy warehouse solutions and led the development of two net-new business capabilities on the data platform. During this time, I was recognized with the “BullDog” CTO award for delivery of the enterprise data warehouse platform. 
 
-My experience at Capital One includes constructing engineering roadmaps for teams, advising data science project planning, and leading the development of new microservices. I have also led teams to close 38 Critical/Major cyber vulnerabilities across 2 ASVs and received multiple awards for performance excellence.
+Prior to this, I had the opportunity to work as a Senior Data Engineer at Tiger Analytics, where I partnered with client teams to develop data warehouse services, integrate third-party systems, and identify process improvements. I also migrated 37 manually managed batch jobs to a CICD platform.
 
-I am proficient in programming languages such as Python, SQL and development capabilities such as MLOps (SparkML), Data Engineering (ETL Development, Data Cleaning, Data Pipeline, Spark Dataframe, Snowflake SQL, Postgresql, Pandas, Airflow), Cloud DevOps (AWS Cloudformation, ECR, ECS, EMR, Github Actions), and Microservice development (Containers/Docker, APIs, Streams/Topics/Queues/Kafka/SQS/SNS).
+I am confident that I would be a valuable asset to the Amazon Science team. I have a strong background in programming languages such as Python and SQL, as well as development capabilities such as MLOps, data engineering, cloud DevOps, and microservice development. I also have a proven track record of developing and implementing models using programming and scripting.
 
-I am confident my experience and skills make me an ideal candidate for this role. I am excited to learn more about the position and to discuss how I can contribute to the success of Amazon Science. Thank you for your time and consideration.
+I have attached my resume for your review and I am looking forward to speaking with you about this opportunity. Please feel free to contact me at 890-372-1262 or cmleroix@anywhere.com.
+
+Thank you for your time and consideration.
 
 Sincerely,
-Dimas Gonzales
+
+Elizabeth Castillo
