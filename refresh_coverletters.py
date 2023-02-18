@@ -43,9 +43,13 @@ def main():
         PROMPT = PROMPT_TEMPLATE.format(
             resume=resume_contents, job_description=jd_contents
         )
+        prompt_filepath = f"output_prompt/{jd_filename}"
+        write_to_file(prompt_filepath, PROMPT)
+        logging.info(f"Created prompt for '{jd_filename}'")
+
         gpt_response = prompt_gpt(PROMPT)
         output_filepath = f"output_coverletter/{jd_filename}"
-        save_coverletter(output_filepath, gpt_response)
+        write_to_file(output_filepath, gpt_response)
         logging.info(f"Wrote '{output_filepath}'")
 
 
@@ -58,7 +62,7 @@ def prompt_gpt(prompt):
     return response.choices[0].text
 
 
-def save_coverletter(output_filepath, file_contents):
+def write_to_file(output_filepath, file_contents):
     with open(output_filepath, "w") as outfile:
         outfile.write(file_contents)
 
@@ -84,7 +88,6 @@ def get_jd_meta(filepath):
         jd_contents = infile.read()
 
     return filepath.name, jd_contents
-
 
 
 if __name__ == "__main__":

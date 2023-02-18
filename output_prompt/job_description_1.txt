@@ -1,0 +1,119 @@
+
+Write a cover letter in markdown for the following 
+
+Resume
+Dimas Gonzales
+dimas@gmail.com
+U.S. Citizen
+
+Feb 2022 - Present | Master Engineer | Texas Capital Bank – Joined as a Senior Engineer and grew to Tech Lead and Team Leader (Dotted Line Report of 8 Engineers, Analysts, Architects and QA resources). Built a cloud-first data lake and data warehouse platform for the entire enterprise (AWS, Snowflake). 
+Migrated 3 business processes off legacy warehouse solutions (On-Premises, Azure) to a new data warehouse platform. Led the development of 2 net-new business capabilities on data platform.
+Codified architecture design patterns; 5 enterprise data lake/warehouse related patterns. 
+Interviewed and approved engineering candidates, 12 candidates interviewed, 5 offers extended.
+Recognized with “BullDog” CTO award for delivery of enterprise data warehouse platform.
+Aug 2021 – Feb 2022 | Senior Data Engineer | Tiger Analytics – Partner with client teams to develop data warehouse service, integrate 3rd party systems and identify process (technical and business) improvements. Solutions were implemented in Python/Javascript/SQL in AWS, Azure, Treasure Data.  
+Migrated 37 manually managed batch jobs to a CICD platform (Azure Devops + Github)
+Developed integration of DataOps and Data Science teams.
+Jan 2021 – July 2021 | Principal Associate Senior Software Engineer | Capital One – Constructed engineering roadmap for team. Advised data science project planning. Implemented required features (ETL pipelines in Python + PySpark + AWS EMR and Microservices in Angular + Django + Docker + AWS ECS). Led/Planned the development of new microservices. Managed team planning board and processes (Jira). Mentored Junior associates. Interviewed engineering candidates. 
+Led engineering team to close 38 Critical/Major cyber vulnerabilities across 2 ASVs in two months
+Recognized with the “Run the Engine” departmental award for work on tech. debt reduction.
+Jan. 2019 – Jan. 2021 | Senior Associate Software Engineer | Capital One – Productionalized Valuations Model. Built a microservice to validate the performance of candidate auto loan valuations models on over 10M loans. Mentored Junior associate. Interviewed engineering candidates.
+Implemented service that yielded an 11% reduction in Valuation models residuals
+Completed tool that reduced model validation process from 1 month to 4 hours 
+Recognized with 2 “Mark of Distinction” LOB awards for performance excellence.
+Sept. 2017 – Jan. 2019 | Associate Software Engineer | Capital One – Created software and supporting tests to implement features. Researched and documented business processes to distill the technical requirements. Interviewed engineering candidates.
+Service delivered $1M in savings the first quarter and $9M in each following year.
+Recognized 4 times at the team and departmental level for acts of “ownership”
+Vetted over a dozen engineering candidates in 2.5 months
+April 2014 – Jan. 2017 | Software Developer 1 | CAPSHER Technology – Created software and supporting tests to implement features.
+Programming Languages – Python, SQL
+Development Capabilities – MLOps (SparkML), Data Engineering (ETL Development, Data Cleaning, Data Pipeline, Spark Dataframe, Snowflake SQL, Postgresql, Pandas, Airflow), Cloud DevOps (AWS Cloudformation, ECR, ECS, EMR, Github Actions), Microservice development (Containers/Docker, APIs, Streams/Topics/Queues/Kafka/SQS/SNS)
+BS Computer Engineering, Texas A&M University – College Station, Graduated May 2017
+
+
+and the following job description
+Description
+
+ 
+
+ Amazon Science gives you insight into the company’s approach to customer-obsessed scientific innovation. Amazon fundamentally believes that scientific innovation is essential to being the most customer-centric company in the world. It’s the company’s ability to have an impact at scale that allows us to attract some of the brightest minds in artificial intelligence and related fields. Our scientists continue to publish, teach, and engage with the academic community, in addition to utilizing our working backwards method to enrich the way we live and work.
+
+ 
+
+ Please visit https://www.amazon.science for more information.
+
+ 
+
+ Amazon has built a reputation for excellence with recent examples of being named the #1 most trusted company for customers. To deliver on this reputation for trust, the Seller Partner Abuse team is tasked with identifying and preventing abuse for our customers and brand owners worldwide.
+
+ 
+
+ Selling Partner Abuse is seeking an innovative, results-oriented, customer-centric Applied Research Scientist to drive expansion of innovative ML products globally in the Risk space. We are looking for an exceptional scientist to develop statistical models and algorithms to drive strategic business decisions and improve operations. You will work with business leaders, scientists, and product managers to translate business and functional requirements into concrete deliverables, including the design, development, testing, and deployment of highly scalable distributed services. This is a unique, high visibility opportunity for someone who wants to have business impact, dive deep into large-scale problems, enable measurable actions. As an Applied Scientist, you bring structure to ambiguous business problems and use science, logic, and practical experience to decompose them into straightforward, scalable solutions. You set the standard for scientific excellence and make decisions that affect the way we build and integrate algorithms. Your solutions are exemplary in terms of algorithm design, clarity, model structure, efficiency, and extensibility. You tackle intrinsically hard problems; you're interested in learning; and you acquire skills and expertise as needed. Additionally, the candidate should be an effective communicator capable of independently driving issues to resolution and communicating insights to non-technical audiences. This is a high impact role with goals that directly impacts the bottom line of the business.
+
+ 
+
+ Responsibilities
+
+ 
+
+Leverage knowledge of statistics and optimization to frame decision-making problems
+Build statistical models required to measure the impact of each system and platform
+Predict future customer behavior and business conditions through machine learning and predictive modeling
+Use analytical and predictive techniques to build models for optimizing and target specific products
+Translate prototype models to production quality, large scale software systems
+Present proposals and results in a clear manner backed by data and coupled with actionable conclusions
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+ 
+
+ 
+
+ Basic Qualifications
+
+ 
+
+PhD or equivalent Master's Degree plus 4+ years of experience in CS, CE, ML or related field
+Experience programming in Java, C++, Python or related language
+Master’s Degree in any quantitative discipline such as Statistics, Mathematics, Quantitative Finance, computer science, or Operational Researh
+4+ years of experience working in Analytics / Business Intelligence environment
+4+ years professional experience in modeling and statistical analysis of large data sets
+Proven experience in working with databases and SQL in a business environment
+Demonstrated use of analytical packages and query languages such as SAS, SPSS and SQL
+Proven experience in design and execution of analytical projects
+Demonstrated experience working in large scale data bases and data warehouses
+Track record of developing and implementing models using programming and scripting (Java, Python, R, Ruby, C/C++, or Matlab)
+Preferred Qualifications
+
+ 
+
+2+ years experience in research or on the job experience in Natural Language Processing (NLP)
+Experience investigating the feasibility of applying scientific principals and concepts to business problems and products
+Strong Computer Science experience in algorithm design, data structures, problem solving, and complexity analysis Proficiency in, at least, one programming language such as python, C, C++, Java, or Perl Experience with AWS technologies
+Strong communication in both verbal and writing and data presentation skills
+Extensive experience applying ML models in an applied environment.
+Strong fundamentals in problem solving, algorithm design and complexity analysis.
+Strong personal interest in learning, researching, and creating new technologies with high commercial impact.
+Experience with defining organizational research and development practices in an industry setting
+Proven track in leading, mentoring and growing teams of scientists (teams of five or more scientist)
+ 
+Company - Amazon.com Services LLC
+
+ 
+
+ Job ID: A1531038  
+
+
+make sure you include a header that looks like the example below
+
+Elizabeth Castillo
+2987 W. Taylor Dr.
+Portland, OR 45720
+890-372-1262
+cmleroix@anywhere.com
+
+February 2, 2005
+
+Amy Kincaid, Human Resource Director
+Western Electric, Inc.
+387 Collier Lane
+Atlanta, Georgia 30051

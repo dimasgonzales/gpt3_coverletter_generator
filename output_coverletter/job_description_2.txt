@@ -1,13 +1,13 @@
 
 Dear Ms. Kincaid,
 
-I am writing to express my interest in the Senior Data Scientist position at Deloitte. With over 7 years of experience in machine learning, data analysis, and software development, I am confident that I can make a significant contribution to the success of your organization.
+I am writing to apply for the Senior Data Scientist position with Western Electric, Inc. that I saw listed on your website. With over seven years of experience in the field of data science and machine learning, I am confident that I can bring the knowledge and skills you are looking for in a successful candidate.
 
-As my resume reflects, I have a BS in Computer Engineering from Texas A&M University and a Masters in Data Science from the University of Oregon. I have 3+ years of industry experience designing, developing, and deploying machine learning models and have extensive experience with Python and relevant libraries (NumPy, Pandas, Scikit-learn, etc.). I also have a solid understanding of machine learning model development life cycles, as well as experience with version control practices and tools (Git, etc.). Additionally, I have experience using common machine learning and deep learning libraries and techniques, including TensorFlow, PyTorch, and big data platforms.
+My experience includes working with cloud-based ecosystems, developing and deploying machine learning models, and performing exploratory data analysis. I have a Bachelor’s degree in Computer Science, and I am proficient in Python and related libraries such as NumPy, Pandas, and Scikit-learn. I also have experience with version control practices and tools, using common machine learning and deep learning libraries, and working with structured and unstructured data.
 
-In my current role at Capital One, I have been leading the development of new microservices and managing team planning boards and processes (Jira). I have also been responsible for conducting interviews with engineering candidates and mentoring junior associates.
+I am a detail-oriented problem solver, with excellent written and verbal communication skills. I am confident that I can make an immediate contribution to your team, and I am eager to learn more about this position.
 
-I am confident that my experience and qualifications make me an ideal candidate for the Senior Data Scientist role at Deloitte. I am excited to join a team of talented professionals in a fast-paced yet collaborative startup-like environment dedicated to realizing the Deloitte Audit and Assurance vision of an AI-enabled audit. I look forward to discussing my qualifications in more detail. Thank you for your time and consideration.
+Thank you for your time and consideration. I look forward to hearing from you soon.
 
 Sincerely,
 

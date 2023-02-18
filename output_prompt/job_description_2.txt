@@ -1,0 +1,117 @@
+
+Write a cover letter in markdown for the following 
+
+Resume
+Dimas Gonzales
+dimas@gmail.com
+U.S. Citizen
+
+Feb 2022 - Present | Master Engineer | Texas Capital Bank – Joined as a Senior Engineer and grew to Tech Lead and Team Leader (Dotted Line Report of 8 Engineers, Analysts, Architects and QA resources). Built a cloud-first data lake and data warehouse platform for the entire enterprise (AWS, Snowflake). 
+Migrated 3 business processes off legacy warehouse solutions (On-Premises, Azure) to a new data warehouse platform. Led the development of 2 net-new business capabilities on data platform.
+Codified architecture design patterns; 5 enterprise data lake/warehouse related patterns. 
+Interviewed and approved engineering candidates, 12 candidates interviewed, 5 offers extended.
+Recognized with “BullDog” CTO award for delivery of enterprise data warehouse platform.
+Aug 2021 – Feb 2022 | Senior Data Engineer | Tiger Analytics – Partner with client teams to develop data warehouse service, integrate 3rd party systems and identify process (technical and business) improvements. Solutions were implemented in Python/Javascript/SQL in AWS, Azure, Treasure Data.  
+Migrated 37 manually managed batch jobs to a CICD platform (Azure Devops + Github)
+Developed integration of DataOps and Data Science teams.
+Jan 2021 – July 2021 | Principal Associate Senior Software Engineer | Capital One – Constructed engineering roadmap for team. Advised data science project planning. Implemented required features (ETL pipelines in Python + PySpark + AWS EMR and Microservices in Angular + Django + Docker + AWS ECS). Led/Planned the development of new microservices. Managed team planning board and processes (Jira). Mentored Junior associates. Interviewed engineering candidates. 
+Led engineering team to close 38 Critical/Major cyber vulnerabilities across 2 ASVs in two months
+Recognized with the “Run the Engine” departmental award for work on tech. debt reduction.
+Jan. 2019 – Jan. 2021 | Senior Associate Software Engineer | Capital One – Productionalized Valuations Model. Built a microservice to validate the performance of candidate auto loan valuations models on over 10M loans. Mentored Junior associate. Interviewed engineering candidates.
+Implemented service that yielded an 11% reduction in Valuation models residuals
+Completed tool that reduced model validation process from 1 month to 4 hours 
+Recognized with 2 “Mark of Distinction” LOB awards for performance excellence.
+Sept. 2017 – Jan. 2019 | Associate Software Engineer | Capital One – Created software and supporting tests to implement features. Researched and documented business processes to distill the technical requirements. Interviewed engineering candidates.
+Service delivered $1M in savings the first quarter and $9M in each following year.
+Recognized 4 times at the team and departmental level for acts of “ownership”
+Vetted over a dozen engineering candidates in 2.5 months
+April 2014 – Jan. 2017 | Software Developer 1 | CAPSHER Technology – Created software and supporting tests to implement features.
+Programming Languages – Python, SQL
+Development Capabilities – MLOps (SparkML), Data Engineering (ETL Development, Data Cleaning, Data Pipeline, Spark Dataframe, Snowflake SQL, Postgresql, Pandas, Airflow), Cloud DevOps (AWS Cloudformation, ECR, ECS, EMR, Github Actions), Microservice development (Containers/Docker, APIs, Streams/Topics/Queues/Kafka/SQS/SNS)
+BS Computer Engineering, Texas A&M University – College Station, Graduated May 2017
+
+
+and the following job description
+ Do you have a passion for artificial intelligence, machine learning, and data analysis? Do you yearn to have the impact of your work recognized and valued by more than just your development team? Do you constantly wonder what you could build if only you had access to world-class data sets and computing resources?
+
+ 
+
+ If yes, we have just the role for you.
+
+ 
+
+ In Deloitte's Audit and Assurance business, we make businesses and markets better. An audit is more than an obligation; it is an opportunity to see further and deeper into businesses. In our role as independent auditors, we enhance trust in the companies we audit, helping a multitrillion dollar capital markets system function with greater confidence. As we aspire to the very highest standards of audit quality, we deliver deeper insights that can help clients become more effective organizations.
+
+ 
+
+ Deloitte's Audit and Assurance business embraces the promise of artificial intelligence and machine learning, with various forms of AI and ML embedded in the audit technology solutions currently used by our 10,000+ practitioners today. Within our dedicated Data Science organization, a subgroup of our award-winning Audit Transformation group, we continue that journey enabling the next generation of AI-enabled solutions that usher in a future that completely transforms the way our practitioners perform their audit work, and the insights we can provide to our clients.
+
+ 
+
+ You will be joining a growing team of talented professionals in a fast-paced yet collaborative startup-like environment dedicated to realizing the Deloitte Audit and Assurance vision of an AI-enabled audit. You will be leveraging the most advanced technologies in machine learning, natural language processing, time-series modeling, and reinforcement learning to lead our business into the future.
+
+ 
+
+ As a Senior Data Scientist, you will focus on supporting the Data Science group and actively participate in all the processes of a data science project, with a focus on generating and selecting features, creating models, and boosting their performance and accuracy, as well as guiding and supervising more junior resources.
+
+ 
+
+ Specifically, you will be expected to:
+
+Apply rigorous data science practices on your specific assigned workstreams; particularly:
+Perform exploratory data analysis to understand relationships and opportunities to influence outcomes, while being able to quickly iterate common feature transformation and model types to find the best predictive models
+Develop proofs of concept to verify your ideas, including counterfactual explanations for interpretability
+Collaborate daily with Data Science Managers to solve complex data science problems that emerge within your workstream and others.
+Collaborate with subject matter experts to obtain an understanding of the underlying business problem, and to define and refine the corresponding technical solution.
+Be a key contributor to the planning and direction of a project and effectively prioritize goals and objectives
+Identify opportunities to apply the latest advancements in machine learning and artificial intelligence to build, test, and validate models
+Make impactful contributions to internal discussions on emerging machine learning methodologies
+Effectively explain technical concepts
+Develop and embed automated processes for model validation, deployment, and implementation
+Qualifications
+
+ 
+
+ Required:
+
+ 
+
+Undergraduate degree in a quantitative field (computer science, engineering, mathematics, physics, machine learning, statistics)
+3+ years of industry experience designing, developing, and deploying machine learning models
+Experience with cloud-based ecosystems (Azure, GCP, AWS)
+Extensive experience with Python and relevant libraries (NumPy, Pandas, Scikit-learn, etc.)
+Solid understanding of machine learning model development life cycles
+Demonstrated understanding of machine learning model performance assessment
+Experience with version control practices and tools (Git, etc.)
+Experience using common machine learning and deep learning libraries and techniques, including TensorFlow, PyTorch, and big data platforms
+Fluency in both structured and unstructured data (SQL, NOSQL)
+Knowledge of Docker, Jenkins, Kubernetes, and other DevOps tools
+Excellent verbal and written communication skills
+Limited immigration sponsorship may be available
+Ability to travel 30%, on average, based on the work you do and the clients and industries/sectors you serve
+Preferred:
+
+ 
+
+Master's degree or PhD in a quantitative field (computer science, engineering, mathematics, physics, machine learning, statistics)
+Extensive experience with Microsoft Azure, including certification in machine learning
+Experience with machine learning pipelines (Azure ML)
+Experience in an Agile working environment and related project management tools (Jira, Azure DevOps, etc.)
+Public AI-related projects you have developed available on GitHub
+ 
+
+
+make sure you include a header that looks like the example below
+
+Elizabeth Castillo
+2987 W. Taylor Dr.
+Portland, OR 45720
+890-372-1262
+cmleroix@anywhere.com
+
+February 2, 2005
+
+Amy Kincaid, Human Resource Director
+Western Electric, Inc.
+387 Collier Lane
+Atlanta, Georgia 30051

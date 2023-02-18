@@ -1,15 +1,13 @@
 
+Re: Applied Research Scientist – Job ID: A1531038
+
 Dear Ms. Kincaid,
 
-I am writing to apply for the Applied Research Scientist position with Amazon Science. With a Bachelor’s Degree in Computer Engineering and over seven years of experience in software engineering, I believe I have the necessary qualifications to exceed your expectations for this role.
+I am writing to apply for the Applied Research Scientist position with Western Electric, Inc. as recently advertised. With a PhD in Computer Engineering, an extensive background in analytics, machine learning and data science, and a passion for problem-solving, I am confident that I am a great fit for the job.
 
-In my most recent role as a Master Engineer at Texas Capital Bank, I was responsible for building a cloud-first data lake and data warehouse platform for the entire enterprise. I also migrated three business processes off legacy warehouse solutions and led the development of two net-new business capabilities on the data platform. During this time, I was recognized with the “BullDog” CTO award for delivery of the enterprise data warehouse platform. 
+My current role as a Senior Engineer at Texas Capital Bank has provided me the opportunity to develop a cloud-first data lake and data warehouse platform for the entire enterprise, as well as migrate three business processes off legacy warehouse solutions. I have also codified architecture design patterns and interviewed and approved engineering candidates. My past experience at Tiger Analytics, Capital One, and CAPSHER Technology has provided me with the skills necessary to excel in this role, including MLOps, Data Engineering, Cloud DevOps, and Microservice development.
 
-Prior to this, I had the opportunity to work as a Senior Data Engineer at Tiger Analytics, where I partnered with client teams to develop data warehouse services, integrate third-party systems, and identify process improvements. I also migrated 37 manually managed batch jobs to a CICD platform.
-
-I am confident that I would be a valuable asset to the Amazon Science team. I have a strong background in programming languages such as Python and SQL, as well as development capabilities such as MLOps, data engineering, cloud DevOps, and microservice development. I also have a proven track record of developing and implementing models using programming and scripting.
-
-I have attached my resume for your review and I am looking forward to speaking with you about this opportunity. Please feel free to contact me at 890-372-1262 or cmleroix@anywhere.com.
+I believe my qualifications, experience, and enthusiasm make me an ideal candidate for the position. I am eager to discuss the role and my qualifications in more detail with you. Please find my resume attached.
 
 Thank you for your time and consideration.
 
